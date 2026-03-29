@@ -1,0 +1,24 @@
+# Environment — never commit real credentials
+.env
+
+# Staging and output directories — data is reproducible, not stored in repo
+raw_data/
+outputs/
+
+# SQLite database output
+*.sqlite
+*.db
+
+# R session artifacts
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# renv — library is reproducible via renv.lock, not stored in repo
+renv/library/
+renv/staging/
