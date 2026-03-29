@@ -214,4 +214,4 @@ Table: `commodity_prices`
 ## Author
 
 **Lance Angelo Arcega** — CS practitioner
-Philippines · [GitHub](https://github.com/yourusername)
+Philippines · [GitHub](https://github.com/laarcega)
