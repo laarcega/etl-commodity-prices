@@ -85,7 +85,7 @@ etl-commodity-prices/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/etl-commodity-prices.git
+git clone https://github.com/laarcega/etl-commodity-prices.git
 cd etl-commodity-prices
 
 # 2. Restore the exact package environment
